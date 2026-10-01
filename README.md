@@ -45,7 +45,7 @@ Sistema completo de facturación electrónica para SUNAT Perú desarrollado con 
 
 1. **Clonar el repositorio**
 ```bash
-git clone clone https://github.com/yorchavez9/Api-de-facturacion-electronica-sunat-Peru.git
+git clone https://github.com/ING-RPINEDA/Api-de-facturacion-electronica-sunat-Peru.git
 cd Api-de-facturacion-electronica-sunat-Peru
 ```
 
